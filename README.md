@@ -1,31 +1,46 @@
-# 👋 Hi there, I'm Ali Aslman Ahmed!
+# 👋 Hey there, I'm ALI ALSMAN AHMED.
 
-Welcome to my GitHub profile. I'm currently on a journey of learning, building, and occasionally breaking things (on purpose... maybe 😅).
-
-## 🌱 About Me
-
-- 🔧 I'm passionate about technology, coding, and continuous learning.
-- 📚 Currently learning new things every day.
-- ☕ Powered by coffee and random YouTube tutorials.
-- 🤖 I love working on smart systems, automation, and a bit of AI.
-
-## 🧳 Where are the projects?
-
-Yeah, I know what you're thinking...
-
-> "Why is this profile so empty?" 🤔
-
-> **All my brilliant code is being protected in the lab… aka my local machine.**  
-> I'm still polishing and perfecting my work before I unleash it on the world. Also, I'm avoiding public embarrassment until my code stops throwing 100 errors per minute 😅.
-
-## 📌 What's next?
-
-Stay tuned! I'll be uploading my projects soon — just as soon as I:
-- Stop overthinking my variable names.
-- Learn how to write "clean code" (or at least "non-chaotic code").
-- Actually finish something.
+I'm a **Software Developer** specializing in **Embedded Linux** and **Artificial Intelligence**.  
+I build things that run close to the metal, talk to sensors, and sometimes even think for themselves 🤖.
 
 ---
 
-Thanks for stopping by. Feel free to follow me and check back later – the magic is coming. ✨
+## 🛠️ What I Do
 
+- 🧠 AI & Machine Learning
+- 🛜 Embedded Linux development
+- 🔌 Integrating hardware with intelligent software
+- 🐧 Building and optimizing systems on devices you probably have in your hand or your car
+
+---
+
+## 🤔 Where Are the Projects?
+
+Yeah, about that...
+
+> **"They're under NDA, under construction, or under review by my inner perfectionist."**  
+> (Also, a few are probably stuck in `~/Desktop/unfinished/` 😅)
+
+I'm actively working on things behind the scenes — most of my work involves:
+- Internal or private company projects  
+- Experimental builds I’m not ready to unleash yet  
+- Long nights debugging SPI and I2C like it’s a crime scene
+
+---
+
+## 🚀 Coming Soon
+
+I’ll be uploading selected projects that:
+- Combine embedded systems and AI
+- Involve real-time systems with smart decision-making
+- Show off some cool integrations between hardware & intelligence
+
+---
+
+## 📬 Let's Connect
+
+Feel free to reach out, collaborate, or just geek out over smart systems and low-level code!
+
+---
+
+_Thanks for visiting! Come back soon — things are cooking._ 🔥
